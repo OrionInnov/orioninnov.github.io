@@ -72,7 +72,7 @@ function setChinese() {
   $("#footer5").html("联络");
   $("#footer6").html("联系我们");
   $("#footer7").html("Github");
-  $("#footer8").html("©2019 奥新智能");
+  $("#footer8").html("©2020 奥新智能");
 
   //System
 
@@ -123,7 +123,7 @@ function setEnglish() {
   $("#footer5").html("Connect");
   $("#footer6").html("Contact Us");
   $("#footer7").html("Github");
-  $("#footer8").html("©2019 Orion Innovations");
+  $("#footer8").html("©2020 Orion Innovations");
 
   //System
 
