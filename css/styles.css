@@ -271,3 +271,11 @@ footer .nav >li > a:hover {
   background-color: transparent;
   color: #fff;
 }
+
+.parameter0,.parameter0 >h4 {
+  color:#5491bd;display:inline-block;width:250px;font-weight:500!important;
+}
+
+.parameter1{
+  display:inline-block
+}
