@@ -84,19 +84,21 @@ function setChinese() {
   $("#product11").html("<h6>产品介绍</h6><h2>OSDR S10</h2><h4>OSDR S10是一套更具性价比的软件定义无线电解决方案(即将面世)。</h4>");
   $("#product2").html("<h6>产品介绍</h6><h2>高性能定位标签</h2>\
   <h4>我们的标签具有极大的覆盖范围和穿墙能力，因此可以在从大型工厂车间到公寓大楼的各种复杂场景中使用。该标签集成了多种传感器，可以提供摔倒检测，温度/湿度警报和方向等功能，使其能够广泛应用于安全和监控场景。</h4>\
-  <div class='parameter0'><h4>[精度(室内)]:</h4></div><div class='parameter1'><h4>2~3m</h4></div>\
-  <div class='parameter0'><h4>[精度(室外)]:</h4></div><div class='parameter1'><h4>1m</h4></div>\
-  <div class='parameter0'><h4>[电池寿命]:</h4></div><div class='parameter1'><h4>3年</h4></div>\
-  <div class='parameter0'><h4>[温度范围]:</h4></div><div class='parameter1'><h4>-20~70℃</h4></div>\
-  <div class='parameter0'><h4>[供电方式]:</h4></div><div class='parameter1'><h4>microUSB</h4></div>\
+  <div><div class='parameter0'><h4>[尺寸]:</h4></div><div class='parameter1'><h4>51*51*20mm</h4></div></div>\
+  <div><div class='parameter0'><h4>[精度(室内)]:</h4></div><div class='parameter1'><h4>2~3m</h4></div></div>\
+  <div><div class='parameter0'><h4>[精度(室外)]:</h4></div><div class='parameter1'><h4>1m</h4></div></div>\
+  <div><div class='parameter0'><h4>[电池寿命]:</h4></div><div class='parameter1'><h4>3年</h4></div></div>\
+  <div><div class='parameter0'><h4>[温度范围]:</h4></div><div class='parameter1'><h4>-20~70℃</h4></div></div>\
+  <div><div class='parameter0'><h4>[供电方式]:</h4></div><div class='parameter1'><h4>microUSB</h4></div></div>\
   <h4>室内: 穿过2至3堵墙。 室外: 不穿过墙壁。</h4>");
   $("#product21").html("<h6>产品介绍</h6><h2>基站</h2>\
   <h4>基站具备抗裂和防水的特性，这使其可以部署在室内和室外场景中。 对于室内定位，可以使用提供的5V电源给基站供电。对于室外场景，我们的系统支持极为便捷的解决方案，不需要任何线缆，可实现随时部署，随时切换场地，而且部署完成后几乎不需要后续维护。</h4>\
-  <div class='parameter0'><h4>[覆盖范围(室内)]:</h4></div><div class='parameter1'><h4>40m</h4></div>\
-  <div class='parameter0'><h4>[覆盖范围(室外)]:</h4></div><div class='parameter1'><h4>250m</h4></div>\
-  <div class='parameter0'><h4>[电池寿命]:</h4></div><div class='parameter1'><h4>3年</h4></div>\
-  <div class='parameter0'><h4>[温度范围]:</h4></div><div class='parameter1'><h4>-20~70℃</h4></div>\
-  <div class='parameter0'><h4>[供电方式]:</h4></div><div class='parameter1'><h4>microUSB</h4></div>\
+  <div><div class='parameter0'><h4>[尺寸]:</h4></div><div class='parameter1'><h4>85*85*34mm</h4></div></div>\
+  <div><div class='parameter0'><h4>[覆盖范围(室内)]:</h4></div><div class='parameter1'><h4>40m</h4></div></div>\
+  <div><div class='parameter0'><h4>[覆盖范围(室外)]:</h4></div><div class='parameter1'><h4>250m</h4></div></div>\
+  <div><div class='parameter0'><h4>[电池寿命]:</h4></div><div class='parameter1'><h4>3年</h4></div></div>\
+  <div><div class='parameter0'><h4>[温度范围]:</h4></div><div class='parameter1'><h4>-20~70℃</h4></div></div>\
+  <div><div class='parameter0'><h4>[供电方式]:</h4></div><div class='parameter1'><h4>microUSB</h4></div></div>\
   <h4>室内: 穿过2至3堵墙。 室外: 不穿过墙壁。</h4>");
 
 
@@ -150,19 +152,21 @@ function setEnglish() {
   $("#product2").html("<h6>Product Description</h6>\
   <h2>High performance position tag</h2>\
   <h4>Our localization tag has unparalleled range and penetration capabilities,allowing it to be used in a variety of complex scenarios ranging from large factory floors to apartment complexes. For safety and monitoring applications, the tag integrates a variety of sensors allowing for fall detection, temperature/humidity alerts, and directionality.</h4>\
-  <div class='parameter0'><h4>[Accuracy(in)]:</h4></div><div class='parameter1'><h4>2~3m</h4></div>\
-  <div class='parameter0'><h4>[Accuracy(out)]:</h4></div><div class='parameter1'><h4>1m</h4></div>\
-  <div class='parameter0'><h4>[Battery life]:</h4></div><div class='parameter1'><h4>3 years</h4></div>\
-  <div class='parameter0'><h4>[Temperature range]:</h4></div><div class='parameter1'><h4>-20~70℃</h4></div>\
-  <div class='parameter0'><h4>[Charging method]:</h4></div><div class='parameter1'><h4>microUSB</h4></div>\
+  <div><div class='parameter0'><h4>[Dimension]:</h4></div><div class='parameter1'><h4>51*51*20mm</h4></div></div>\
+  <div><div class='parameter0'><h4>[Accuracy(in)]:</h4></div><div class='parameter1'><h4>2~3m</h4></div></div>\
+  <div><div class='parameter0'><h4>[Accuracy(out)]:</h4></div><div class='parameter1'><h4>1m</h4></div></div>\
+  <div><div class='parameter0'><h4>[Battery life]:</h4></div><div class='parameter1'><h4>3 years</h4></div></div>\
+  <div><div class='parameter0'><h4>[Temperature range]:</h4></div><div class='parameter1'><h4>-20~70℃</h4></div></div>\
+  <div><div class='parameter0'><h4>[Charging method]:</h4></div><div class='parameter1'><h4>microUSB</h4></div></div>\
   <h4>in: indoor, 2~3 walls penetration. out: outside, no wall.</h4>");
   $("#product21").html("<h6>Product Description</h6><h2>Base station</h2>\
   <h4>Base stations are encased in crack- and water-resistant cases, allowing them to be deployed in both indoor and outdoor scenarios. For indoor localization, the base station can be powered using the provided 5V cable. For outdoor localization scenarios, our system supports a simple drop-and-forget solution, enabling fast setup and little to no maintainence.</h4>\
-  <div class='parameter0'><h4>[Coverage(in)]:</h4></div><div class='parameter1'><h4>40m</h4></div>\
-  <div class='parameter0'><h4>[Coverage(out)]:</h4></div><div class='parameter1'><h4>250m</h4></div>\
-  <div class='parameter0'><h4>[Battery life]:</h4></div><div class='parameter1'><h4>3 years</h4></div>\
-  <div class='parameter0'><h4>[Temperature range]:</h4></div><div class='parameter1'><h4>-20~70℃</h4></div>\
-  <div class='parameter0'><h4>[Charging method]:</h4></div><div class='parameter1'><h4>microUSB</h4></div>\
+  <div><div class='parameter0'><h4>[Dimension]:</h4></div><div class='parameter1'><h4>85*85*34mm</h4></div></div>\
+  <div><div class='parameter0'><h4>[Coverage(in)]:</h4></div><div class='parameter1'><h4>40m</h4></div></div>\
+  <div><div class='parameter0'><h4>[Coverage(out)]:</h4></div><div class='parameter1'><h4>250m</h4></div></div>\
+  <div><div class='parameter0'><h4>[Battery life]:</h4></div><div class='parameter1'><h4>3 years</h4></div></div>\
+  <div><div class='parameter0'><h4>[Temperature range]:</h4></div><div class='parameter1'><h4>-20~70℃</h4></div></div>\
+  <div><div class='parameter0'><h4>[Charging method]:</h4></div><div class='parameter1'><h4>microUSB</h4></div></div>\
   <h4>in: indoor, 2~3 walls penetration. out: outside, no wall.</h4>");
 }
 
